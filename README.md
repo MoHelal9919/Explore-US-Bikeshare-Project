@@ -6,13 +6,13 @@ The Datasets Randomly selected data for the first six months of 2017 are provide
 
 <p>All three of the data files contain the same core six (6) columns:</p>
 <ol>
-  <li>Start Time (e.g., 2017-01-01 00:07:57)<u>
+ <li>Start Time (e.g., 2017-01-01 00:07:57)<u>
 <li>End Time (e.g., 2017-01-01 00:20:53)
 <li>Trip Duration (in seconds - e.g., 776)
 <li>Start Station (e.g., Broadway & Barry Ave)
 <li>End Station (e.g., Sedgwick St & North Ave)
 <li>User Type (Subscriber or Customer)</ol>
 
-The Chicago and New York City files also have the following two columns:
-Gender
-Birth Year
+<p>The Chicago and New York City files also have the following two columns:</p>
+<li>Gender
+<li>Birth Year
