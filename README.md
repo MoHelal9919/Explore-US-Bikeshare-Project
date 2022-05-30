@@ -3,3 +3,15 @@ In this project, Python is used to explore data related to **bike share systems*
 
 in this project i wrote a code to import the data and answer interesting questions about it by computing descriptive statistics, and a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 The Datasets Randomly selected data for the first six months of 2017 are provided for all three cities.
+
+<p>All three of the data files contain the same core six (6) columns:</p>
+<ol>Start Time (e.g., 2017-01-01 00:07:57)
+End Time (e.g., 2017-01-01 00:20:53)
+Trip Duration (in seconds - e.g., 776)
+Start Station (e.g., Broadway & Barry Ave)
+End Station (e.g., Sedgwick St & North Ave)
+User Type (Subscriber or Customer)</ol>
+
+The Chicago and New York City files also have the following two columns:
+Gender
+Birth Year
