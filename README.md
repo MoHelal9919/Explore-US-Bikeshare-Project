@@ -5,7 +5,8 @@ in this project i wrote a code to import the data and answer interesting questio
 The Datasets Randomly selected data for the first six months of 2017 are provided for all three cities.
 
 <p>All three of the data files contain the same core six (6) columns:</p>
-<ol>Start Time (e.g., 2017-01-01 00:07:57)
+<ol>
+  <li>Start Time (e.g., 2017-01-01 00:07:57)<ul>
 End Time (e.g., 2017-01-01 00:20:53)
 Trip Duration (in seconds - e.g., 776)
 Start Station (e.g., Broadway & Barry Ave)
